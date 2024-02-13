@@ -4,12 +4,12 @@
   <test thread-count="5" name="Test1">
     <classes>
       <class name="test.TestNG_demo"/>
-      <class name="test.TestNG_demo2">
+     <!--  <class name="test.TestNG_demo2">
 		  <methods>
 			  <exclude name="googleSearch3"></exclude>
 			  </methods>
 	  </class>
-      
+      -->
       
     </classes>
   </test> <!-- Test1 -->
